@@ -223,6 +223,20 @@ nav a {
         margin: 20px;
     }
 
+    .text .text1-presentation{
+        text-align: left;
+        display: block;
+    }
+    
+    .text .text2-presentation{
+        text-align: center;
+    }
+
+    .icon{
+        width: 100%;
+        margin: 10px;
+    }
+
     nav {
         margin-top: 10px;
     }
